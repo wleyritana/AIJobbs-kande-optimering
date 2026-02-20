@@ -1,4 +1,4 @@
-# AI Job Hunt (Lite) — English / Swedish + Module 6
+# AI Job Hunt (Lite) — English / Swedish
 A lightweight, **no-database**, **no-user-login** Flask web app that runs an AI-driven job hunting pipeline (Modules 1–8) with **language selection (English / Swedish)**, a **shared password gate**, **IP rate limiting**, and a **daily global cap**.
 
 It is designed to be deployed publicly (e.g., Railway) without any persistence requirements.
